@@ -1,6 +1,7 @@
 # lita-tanzaku
 
-TODO: Add a description of the plugin.
+Create tanzaku.
+Tanzaku is strip of paper. It is used in the Tanabata.
 
 ## Installation
 
@@ -12,8 +13,8 @@ gem "lita-tanzaku"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+None
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+`lita tanzaku your dream`
